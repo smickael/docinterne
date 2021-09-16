@@ -4,36 +4,36 @@
         <title>W6D Internal Documentation Blog</title>
         <link>https://smickael.github.io/docinterne/blog</link>
         <description>W6D Internal Documentation Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://smickael.github.io/docinterne/blog/welcome</link>
-            <guid>welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
+            <title><![CDATA[Long Blog Post]]></title>
+            <link>https://smickael.github.io/docinterne/blog/long-blog-post</link>
+            <guid>long-blog-post</guid>
+            <pubDate>Fri, 17 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the summary of a very long blog post,]]></description>
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
             <link>https://smickael.github.io/docinterne/blog/mdx-blog-post</link>
             <guid>mdx-blog-post</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://smickael.github.io/docinterne/blog/long-blog-post</link>
-            <guid>long-blog-post</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
+            <pubDate>Fri, 17 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Use the power of React to create interactive blog posts.]]></description>
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>
             <link>https://smickael.github.io/docinterne/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is a test.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://smickael.github.io/docinterne/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I started my internship at Wildcard and I put the WildBlog and this internal documentation online.]]></description>
         </item>
     </channel>
 </rss>

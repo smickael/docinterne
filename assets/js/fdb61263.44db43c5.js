@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocinterne=self.webpackChunkdocinterne||[]).push([[477],{5770:function(e){e.exports=JSON.parse('{"allTagsPath":"/docinterne/blog/tags","slug":"/docinterne/blog/tags/blog","name":"blog","count":1,"permalink":"/docinterne/blog/tags/blog"}')}}]);
