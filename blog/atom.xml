@@ -8,22 +8,22 @@
     <subtitle>W6D Internal Documentation Blog</subtitle>
     <icon>https://smickael.github.io/docinterne/img/logo-w6d.png</icon>
     <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>long-blog-post</id>
-        <link href="https://smickael.github.io/docinterne/blog/long-blog-post"/>
+        <title type="html"><![CDATA[MDX Blog Post]]></title>
+        <id>mdx-blog-post</id>
+        <link href="https://smickael.github.io/docinterne/blog/mdx-blog-post"/>
         <updated>2021-09-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
+        <summary type="html"><![CDATA[Use the power of React to create interactive blog posts.]]></summary>
         <author>
             <name>Mickaël S</name>
             <uri>https://github.com/smickael</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>mdx-blog-post</id>
-        <link href="https://smickael.github.io/docinterne/blog/mdx-blog-post"/>
+        <title type="html"><![CDATA[Long Blog Post]]></title>
+        <id>long-blog-post</id>
+        <link href="https://smickael.github.io/docinterne/blog/long-blog-post"/>
         <updated>2021-09-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Use the power of React to create interactive blog posts.]]></summary>
+        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <author>
             <name>Mickaël S</name>
             <uri>https://github.com/smickael</uri>

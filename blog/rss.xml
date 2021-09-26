@@ -8,18 +8,18 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://smickael.github.io/docinterne/blog/long-blog-post</link>
-            <guid>long-blog-post</guid>
-            <pubDate>Fri, 17 Sep 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
-        </item>
-        <item>
             <title><![CDATA[MDX Blog Post]]></title>
             <link>https://smickael.github.io/docinterne/blog/mdx-blog-post</link>
             <guid>mdx-blog-post</guid>
             <pubDate>Fri, 17 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Use the power of React to create interactive blog posts.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Long Blog Post]]></title>
+            <link>https://smickael.github.io/docinterne/blog/long-blog-post</link>
+            <guid>long-blog-post</guid>
+            <pubDate>Fri, 17 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the summary of a very long blog post,]]></description>
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>
