@@ -16,7 +16,7 @@ Each blog article shoud follow those examples:
 
 A blog post folder can be convenient to co-locate blog post images:
 
-![Docusaurus Plushie](./w6d.png)
+![Wildcard](./w6d.png)
 
 The blog supports tags as well!
 
